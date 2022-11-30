@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(24, 20, 20);
+}
+h1{
+    text-align: center;
+    color: orangered;
+    background-color: rgb(141, 248, 239);
+    background-image: linear-gradient(rgb(211, 228, 32) , rgb(24, 212, 225));
+    font-size: 3rem;
+    letter-spacing: 2px;
+    font-style: italic;
+}
+h2{
+    font-size: 2rem;
+    color: rgb(240, 39, 166);
+}
+p{
+    color: rgb(243, 245, 119);
+    font-size: 2rem;
+}
+span{
+    font-size: 2rem;
+    color: red;
+}
+pre{
+    color: limegreen;
+    font-size: 2rem;
+}
+.same{
+    color: sandybrown;
+}
+.arr{
+
+    font-size: 2rem;
+    color: rgb(6, 75, 159);
+    border-radius: 25px;
+    text-decoration: underline;
+    background-color: palevioletred;
+    border: 3px double rgb(193, 26, 26);
+}
